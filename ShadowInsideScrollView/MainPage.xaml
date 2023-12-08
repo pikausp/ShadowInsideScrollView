@@ -32,17 +32,17 @@
             </Grid>
         </ScrollView>
 
-        <ScrollView Grid.Row="2">
+        <Border Grid.Row="2" />
+
+        <ScrollView Grid.Row="3">
             <Border BackgroundColor="White" />
         </ScrollView>
 
-        <ScrollView Grid.Row="3">
+        <ScrollView Grid.Row="4">
             <Grid>
-                <Border BackgroundColor="White"/>
+                <Border BackgroundColor="White" />
             </Grid>
         </ScrollView>
-
-        <Border Grid.Row="4" />
 
         <Border BackgroundColor="White"
                 Grid.Row="5"/>
